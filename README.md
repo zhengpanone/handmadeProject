@@ -282,3 +282,14 @@ L1: DefaultSingletonBeanRegistry        [单例缓存]
 1. 模板方法模式是灵魂 — Spring源码中也大量使用这种方式，将固定流程与可变步骤分离
 2.工厂+单例+注册表的组合 — 这正是IoC容器的本质：一个管理对象生命周期的大型工厂
 3. 分层继承体系 — 与真实Spring的 DefaultListableBeanFactory → AbstractAutowiredCapableBeanFactory → AbstractBeanFactory → FactoryBeanRegistrySupport → DefaultSingletonBeanRegistry 一脉相承
+
+
+
+## [基于Cglib实现含构造函数的类实例化策略](https://mp.weixin.qq.com/s/olrwapkSTQMyIGpR10ZDzA)
+
+
+
+
+
+
+

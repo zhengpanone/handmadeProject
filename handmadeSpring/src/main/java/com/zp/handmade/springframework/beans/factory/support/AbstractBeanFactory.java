@@ -1,7 +1,7 @@
 package com.zp.handmade.springframework.beans.factory.support;
 
-import com.zp.handmade.springframework.BeansException;
-import com.zp.handmade.springframework.beans.BeanFactory;
+import com.zp.handmade.springframework.beans.BeansException;
+import com.zp.handmade.springframework.beans.factory.BeanFactory;
 import com.zp.handmade.springframework.beans.factory.config.BeanDefinition;
 
 /**

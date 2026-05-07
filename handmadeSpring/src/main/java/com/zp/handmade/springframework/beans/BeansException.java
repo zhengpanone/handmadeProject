@@ -1,4 +1,4 @@
-package com.zp.handmade.springframework;
+package com.zp.handmade.springframework.beans;
 
 /**
  * @author : zhengpanone
